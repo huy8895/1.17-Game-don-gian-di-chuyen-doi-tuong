@@ -1,5 +1,5 @@
 /**
- * Created by nhatnk on 4/26/17.
+ * Created by huy8895 on 6/23/19.
  */
 
 function Hero(image, top, left, sizeWidth, sizeHeight){
